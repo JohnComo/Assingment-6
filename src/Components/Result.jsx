@@ -16,3 +16,5 @@ const Result = ({city, zipcodes}) => {
 }
 
 export default Result
+
+
