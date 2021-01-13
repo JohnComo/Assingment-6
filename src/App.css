@@ -1,0 +1,22 @@
+.App { 
+  text-align: center;
+}
+
+#head { 
+  color: white; 
+  text-align: center;
+}
+
+#headDiv { 
+  background-color: darkblue;
+  height: 40px; 
+
+}
+
+#formDiv { 
+  text-align: center;
+}
+
+#resultDiv { 
+  text-align: center;
+}
